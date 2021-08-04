@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller-amd64:0.40.2
+FROM k8s.gcr.io/ingress-nginx/controller:v0.40.2
